@@ -1,22 +1,4 @@
-**Experienced HaxeFlixel and Unity Modder**
-*Started Modding on Cocos2dX, and i'm game decompiler too*
-```
-using System;
-using System.Collections;
-using System.Text.Json;
-using Credits.PietroDev
-using UnityEngine;
-using UnityEngine.Networking;
-
-namespace Discord
-{
-	// Token: 0x02000008 RID: 8
-	public class DiscordAPI : RPC
-	{
-  Username.(7578);
-  Tag.(7597));
-  }
-}
-```
+**Experienced HaxeFlixel Dev and Unity Modder**
+*Started Modding on Cocos2dX, and i'm a game decompiler too*
 
 ![Pietrodjaowjao](https://github-readme-stats.vercel.app/api?username=Pietrodjaowjao&show_icons=true&theme=dark)
