@@ -16,10 +16,11 @@ down to the mods and tooling that end users actually run.
 - Android native bridge
 - Cross-platform compatibility
 
-![Pietrodjaowjao](https://github-readme-stats.vercel.app/api?username=Pietrodjaowjao&show_icons=true&theme=dark)
+![Pietrodjaowjao](https://github-readme-stats-fast.vercel.app/api?username=Pietrodjaowjao&show_icons=true&theme=dark)
 
 **Currently working on**  
 - [Starlight](https://allofus.dev/starlight/) - an Among Us mod launcher for Android
+- Comms - launching soon
 - Classic Us - launching soon
 
 **Contact**  
