@@ -21,7 +21,7 @@ down to the mods and tooling that end users actually run.
 **Currently working on**  
 - [Starlight](https://allofus.dev/starlight/) - an Among Us mod launcher for Android
 - Comms - launching soon
-- Classic Us - launching soon
+- [Classic Us](https://github.com/OvernightAU/ClassicUs) - A Among Us mod that brings back the pre-2021 art style and overall feel of the game.
 
 **Contact**  
 Discord: `pietro420`
